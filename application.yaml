@@ -4,4 +4,4 @@ spring.datasource:
 spring:
   ocrm-mutable:
     username: ocrm_mutable
-    password: '{cipher}e204d0c8b5dc5762498bba4c45b1b542eaf0995db9bdd6ac903a8f070622eaa1'
+    password: '{cipher}fd39cc3c8da60f9f853c64765f7e5f6c67e9348d25eee899d24a0a90fc384f6b'
