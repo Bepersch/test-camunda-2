@@ -1,7 +1,8 @@
 spring.datasource:
   username: OCRM_PECAM
-  password: '{cipher}43d5869788ab1da96a789dd5456a9770b28a980c515b9363ec84a1276d49f34f'
+  password: '{cipher}e3330359951c9343d781ef13c9a80ec082181567ccbbe64bd2efb24cdcd0ba02'
 spring:
   ocrm-mutable:
     username: ocrm_mutable
-    password: '{cipher}d7c650a47298689d34ce8bbb418a72f6b9733cfd8924ade76638b116ff7786ef'
+    password: '{cipher}e204d0c8b5dc5762498bba4c45b1b542eaf0995db9bdd6ac903a8f070622eaa1'
+    
