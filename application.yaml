@@ -1,6 +1,1 @@
-spring.datasource:
-  password: '{cipher}e3330359951c9343d781ef13c9a80ec082181567ccbbe64bd2efb24cdcd0ba02'
-spring:
-  ocrm-mutable:
-    password: '{cipher}e204d0c8b5dc5762498bba4c45b1b542eaf0995db9bdd6ac903a8f070622eaa1'
-    
+
